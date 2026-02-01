@@ -74,6 +74,7 @@ loan and credit card data, transaction history, feedback, and any unusual activi
 ##  Visualizations
 
 # Author  
-- LinkedIn: www.linkedin.com/in/joke-samiat-olajide-9959762b0
+- Name:Olajide Joke Samiat
+-  LinkedIn: www.linkedin.com/in/joke-samiat-olajide-9959762b0
 - Email: olajidejokesamiat@gmail.com
 
